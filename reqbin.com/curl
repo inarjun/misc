@@ -1,0 +1,1 @@
+curl -X POST -v https://www.metaweather.com/api/location/search/?query=san
